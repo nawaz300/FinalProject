@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="772568" started-at="2021-02-04T23:26:13 IST" finished-at="2021-02-04T23:39:06 IST">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="170405" started-at="2021-02-04T23:26:13 IST" finished-at="2021-02-04T23:29:04 IST">
+      <class name="testCases.MobileListTest">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:testCases.MobileListTest@6adede5]" name="initDriver" is-config="true" duration-ms="127880" started-at="2021-02-04T23:26:13 IST" finished-at="2021-02-04T23:28:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="verifyMobilePage()[pri:0, instance:testCases.MobileListTest@6adede5]" name="verifyMobilePage" duration-ms="36833" started-at="2021-02-04T23:28:21 IST" finished-at="2021-02-04T23:28:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMobilePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.MobileListTest@6adede5]" name="tearDown" is-config="true" duration-ms="5558" started-at="2021-02-04T23:28:58 IST" finished-at="2021-02-04T23:29:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.MobileListTest -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="45891" started-at="2021-02-04T23:29:04 IST" finished-at="2021-02-04T23:29:50 IST">
+      <class name="testCases.MobPriceCompTest">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:testCases.MobPriceCompTest@4e9ba398]" name="initDriver" is-config="true" duration-ms="13571" started-at="2021-02-04T23:29:04 IST" finished-at="2021-02-04T23:29:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="verifyMobilePrice()[pri:0, instance:testCases.MobPriceCompTest@4e9ba398]" name="verifyMobilePrice" duration-ms="26240" started-at="2021-02-04T23:29:18 IST" finished-at="2021-02-04T23:29:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMobilePrice -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.MobPriceCompTest@4e9ba398]" name="tearDown" is-config="true" duration-ms="6078" started-at="2021-02-04T23:29:44 IST" finished-at="2021-02-04T23:29:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.MobPriceCompTest -->
+    </test> <!-- Test2 -->
+    <test name="Test3" duration-ms="51541" started-at="2021-02-04T23:29:50 IST" finished-at="2021-02-04T23:30:41 IST">
+      <class name="testCases.MobProdCartTest">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:testCases.MobProdCartTest@63753b6d]" name="initDriver" is-config="true" duration-ms="4596" started-at="2021-02-04T23:29:50 IST" finished-at="2021-02-04T23:29:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="verifyMobileCart()[pri:0, instance:testCases.MobProdCartTest@63753b6d]" name="verifyMobileCart" duration-ms="41931" started-at="2021-02-04T23:29:55 IST" finished-at="2021-02-04T23:30:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMobileCart -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.MobProdCartTest@63753b6d]" name="tearDown" is-config="true" duration-ms="5013" started-at="2021-02-04T23:30:36 IST" finished-at="2021-02-04T23:30:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.MobProdCartTest -->
+    </test> <!-- Test3 -->
+    <test name="Test4" duration-ms="63117" started-at="2021-02-04T23:30:41 IST" finished-at="2021-02-04T23:31:45 IST">
+      <class name="testCases.MobCompTest">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:testCases.MobCompTest@6f1fba17]" name="initDriver" is-config="true" duration-ms="7723" started-at="2021-02-04T23:30:41 IST" finished-at="2021-02-04T23:30:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="verifyMobileCompare()[pri:0, instance:testCases.MobCompTest@6f1fba17]" name="verifyMobileCompare" duration-ms="53901" started-at="2021-02-04T23:30:49 IST" finished-at="2021-02-04T23:31:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMobileCompare -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.MobCompTest@6f1fba17]" name="tearDown" is-config="true" duration-ms="1489" started-at="2021-02-04T23:31:43 IST" finished-at="2021-02-04T23:31:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.MobCompTest -->
+    </test> <!-- Test4 -->
+    <test name="Test5" duration-ms="92065" started-at="2021-02-04T23:31:45 IST" finished-at="2021-02-04T23:33:17 IST">
+      <class name="testCases.AcctCreationTest">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:testCases.AcctCreationTest@6ddf90b0]" name="initDriver" is-config="true" duration-ms="39105" started-at="2021-02-04T23:31:45 IST" finished-at="2021-02-04T23:32:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="verifyAcctCreation()[pri:0, instance:testCases.AcctCreationTest@6ddf90b0]" name="verifyAcctCreation" duration-ms="46007" started-at="2021-02-04T23:32:24 IST" finished-at="2021-02-04T23:33:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAcctCreation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.AcctCreationTest@6ddf90b0]" name="tearDown" is-config="true" duration-ms="6951" started-at="2021-02-04T23:33:10 IST" finished-at="2021-02-04T23:33:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.AcctCreationTest -->
+    </test> <!-- Test5 -->
+    <test name="Test6" duration-ms="66782" started-at="2021-02-04T23:33:17 IST" finished-at="2021-02-04T23:34:23 IST">
+      <class name="testCases.PlaceOrderTest">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:testCases.PlaceOrderTest@1f28c152]" name="initDriver" is-config="true" duration-ms="7870" started-at="2021-02-04T23:33:17 IST" finished-at="2021-02-04T23:33:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="verifyOrderPlaced()[pri:0, instance:testCases.PlaceOrderTest@1f28c152]" name="verifyOrderPlaced" duration-ms="57348" started-at="2021-02-04T23:33:25 IST" finished-at="2021-02-04T23:34:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrderPlaced -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.PlaceOrderTest@1f28c152]" name="tearDown" is-config="true" duration-ms="1562" started-at="2021-02-04T23:34:22 IST" finished-at="2021-02-04T23:34:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.PlaceOrderTest -->
+    </test> <!-- Test6 -->
+    <test name="Test7" duration-ms="178727" started-at="2021-02-04T23:34:24 IST" finished-at="2021-02-04T23:37:22 IST">
+      <class name="testCases.PrintOrderTest">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:testCases.PrintOrderTest@2b9627bc]" name="initDriver" is-config="true" duration-ms="22131" started-at="2021-02-04T23:34:24 IST" finished-at="2021-02-04T23:34:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="verifyPrintOrder()[pri:0, instance:testCases.PrintOrderTest@2b9627bc]" name="verifyPrintOrder" duration-ms="142227" started-at="2021-02-04T23:34:46 IST" finished-at="2021-02-04T23:37:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPrintOrder -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.PrintOrderTest@2b9627bc]" name="tearDown" is-config="true" duration-ms="14366" started-at="2021-02-04T23:37:08 IST" finished-at="2021-02-04T23:37:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.PrintOrderTest -->
+    </test> <!-- Test7 -->
+    <test name="Test8" duration-ms="68129" started-at="2021-02-04T23:37:22 IST" finished-at="2021-02-04T23:38:31 IST">
+      <class name="testCases.PlaceReOrderTest">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:testCases.PlaceReOrderTest@23e028a9]" name="initDriver" is-config="true" duration-ms="11936" started-at="2021-02-04T23:37:22 IST" finished-at="2021-02-04T23:37:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="verifyReOrderPlaced()[pri:0, instance:testCases.PlaceReOrderTest@23e028a9]" name="verifyReOrderPlaced" duration-ms="54049" started-at="2021-02-04T23:37:34 IST" finished-at="2021-02-04T23:38:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyReOrderPlaced -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.PlaceReOrderTest@23e028a9]" name="tearDown" is-config="true" duration-ms="2141" started-at="2021-02-04T23:38:28 IST" finished-at="2021-02-04T23:38:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.PlaceReOrderTest -->
+    </test> <!-- Test8 -->
+    <test name="Test9" duration-ms="35089" started-at="2021-02-04T23:38:31 IST" finished-at="2021-02-04T23:39:06 IST">
+      <class name="testCases.CouponCodeTest">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:testCases.CouponCodeTest@627551fb]" name="initDriver" is-config="true" duration-ms="10481" started-at="2021-02-04T23:38:31 IST" finished-at="2021-02-04T23:38:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="verifyCouponCode()[pri:0, instance:testCases.CouponCodeTest@627551fb]" name="verifyCouponCode" duration-ms="23183" started-at="2021-02-04T23:38:41 IST" finished-at="2021-02-04T23:39:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCouponCode -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.CouponCodeTest@627551fb]" name="tearDown" is-config="true" duration-ms="1424" started-at="2021-02-04T23:39:04 IST" finished-at="2021-02-04T23:39:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.CouponCodeTest -->
+    </test> <!-- Test9 -->
+  </suite> <!-- Suite -->
+</testng-results>

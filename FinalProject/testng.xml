@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test1">
+    <classes>
+      <class name="testCases.MobileListTest"/>
+       </classes>
+       </test>
+       <test name="Test2">
+        <classes>
+      <class name="testCases.MobPriceCompTest"/>
+       </classes>
+       </test>
+       <test name="Test3">
+        <classes>
+      <class name="testCases.MobProdCartTest"/>
+       </classes>
+       </test>
+       <test name="Test4">
+       <classes>
+      <class name="testCases.MobCompTest"/>
+       </classes>
+       </test>
+       <test name="Test5">
+       <classes>
+      <class name="testCases.AcctCreationTest"/>
+       </classes>
+       </test>
+       <test name="Test6">
+        <classes>
+      <class name="testCases.PlaceOrderTest"/>
+       </classes>
+       </test>
+       <test name="Test7">
+        <classes>
+      <class name="testCases.PrintOrderTest"/>    
+       </classes>
+       </test>
+       <test name="Test8">
+        <classes>
+      <class name="testCases.PlaceReOrderTest"/>         
+       </classes>
+       </test>
+       <test name="Test9">
+        <classes>
+      <class name="testCases.CouponCodeTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
