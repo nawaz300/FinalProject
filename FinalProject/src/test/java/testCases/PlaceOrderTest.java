@@ -51,7 +51,7 @@ public class PlaceOrderTest extends BuildUp{
 		hp.getLogin().click();
 		
 		LoginPageObjects lp = new LoginPageObjects(driver);		
-		lp.getEmail().sendKeys("azsadsqaz@mail.com");
+		lp.getEmail().sendKeys("azsadsqazx@mail.com");
 		lp.getPswd().sendKeys("dummy123");
 		lp.getLoginBtn().click();
 		

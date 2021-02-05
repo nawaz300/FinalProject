@@ -50,7 +50,7 @@ public class AcctCreationTest extends BuildUp{
 		NewAccPageObjects nap = new NewAccPageObjects(driver);		
 		nap.getFirstName().sendKeys("Ben");
 		nap.getLastName().sendKeys("Stokes");
-		nap.getemail().sendKeys("azsadsqaz@mail.com");
+		nap.getemail().sendKeys("azsadsqazx@mail.com");
 		nap.getPswd().sendKeys("dummy123");
 		nap.getConPswd().sendKeys("dummy123");
 		nap.getSubmit().click();
